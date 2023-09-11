@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BukuCeritaApp</string>
+
+    <string name="about_desc">Baca Buku memberikan pengalaman membaca yang nyaman dan disesuaikan dengan preferensi masing-masing pembaca. Dalam dunia yang terus berubah, aplikasi ini membantu memelihara minat membaca dan mendukung perkembangan literasi di era digital, menjadikannya alat yang tak ternilai bagi pencinta buku di seluruh dunia.</string>
+
+
+    <string name="password">Password</string>
+    <string name="passwordcon">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="user">Username</string>
+    <string name="register_btn_label">Register</string>
+    <string name="buku">Baca Buku</string>
+    <string name="tentang">About</string>
+    <string name="exit">Exit</string>
+
+
+</resources>

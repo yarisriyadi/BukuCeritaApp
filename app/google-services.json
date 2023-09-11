@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "59477670875",
+    "firebase_url": "https://bukucerita-a3066-default-rtdb.firebaseio.com",
+    "project_id": "bukucerita-a3066",
+    "storage_bucket": "bukucerita-a3066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59477670875:android:7554245fb824a2355085fe",
+        "android_client_info": {
+          "package_name": "com.bala.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrYAGZMGUzgzakO34_xSsKLF9Iq4dEe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59477670875:android:ebfff4c651762ff85085fe",
+        "android_client_info": {
+          "package_name": "com.example.bukuceritaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrYAGZMGUzgzakO34_xSsKLF9Iq4dEe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
